@@ -1,0 +1,12 @@
+{
+  "name": "tasknudge",
+  "version": "1.0.0",
+  "description": "Turn college notices into prioritized tasks with AI",
+  "main": "api/extract.js",
+  "scripts": {
+    "test": "node test/test-extract.js"
+  },
+  "keywords": ["tasks", "college", "notices", "vercel"],
+  "author": "",
+  "license": "MIT"
+}
